@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Ventas</Id>
+            <Name>Ventas</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9Km6i1gnHE6/JK45eh1VjAAAAAAOAAAAVgBlAG4AdABhAHMAAAAQZgAAAAEAACAAAACjEaa7O0tXn2XkDu0oJ4CGfPJgT5QENb0i92NC+a99DAAAAAAOgAAAAAIAACAAAADp4SsuZ5d3BSh6cYNvexoODRhSmegIVqTRNrXcSGL9biAAAADHyLYDLr/8wJpLMS2BnvwvHd+W2b449UYvu2k3+kP0KkAAAAC1l7vxcvK2QwBvDFYHEkMcwhelef0yzU1D0OBVPDGSrk2kfQaghCnNdjedjW1v0mzwbeDOrP2KaeO2mzPSXMAe</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Ventas</Id>
+            <Name>Ventas</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9Km6i1gnHE6/JK45eh1VjAAAAAAOAAAAVgBlAG4AdABhAHMAAAAQZgAAAAEAACAAAACFO1kh7bGeB2wMff0L3Ophz1fQuTsDelguemWIVA++EAAAAAAOgAAAAAIAACAAAABPT0X/qDGAMyzebtJa9kVkIEsq6GVTLgi9ZClGrgDPehAAAAA5E4puXC9aEEvVIzdVm0p1QAAAAGC9bu29s8zydoCGYbPRlUDhK3w2DoQz9JWMwd0Fd2ccsdsj7UUNrd0o7xFG0nWBiwW40Gf5Y1qyJPQRZohZjvU=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-320BQK1\SQLEXPRESS</TargetServer>
+        <TargetDatabase>ProyectoMultidimensional1</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
